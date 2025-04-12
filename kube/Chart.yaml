@@ -1,0 +1,4 @@
+apiVersion: v2
+name: sample-assembly-chart
+description: A Helm chart for deploying sample-assembly
+version: 0.1.0
